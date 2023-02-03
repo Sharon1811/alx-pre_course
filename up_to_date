@@ -1,2 +1,1 @@
-git chekout master
-git pull origin main
+echo > up_to_date
